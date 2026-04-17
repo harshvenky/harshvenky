@@ -1,1 +1,5 @@
-## Former Software Engineer @ Tata Elxsi — built ADAS modules, simulated sensor data, and decoded CAN signals on embedded systems | Now leveling up in Data Science @ RMIT Melbourne | Exploring ML, optimization, and everything in between | Python · C++ · React
+🛠️ Former Software Engineer @ Tata Elxsi — built ADAS modules, simulated sensor data, and decoded CAN signals on embedded systems
+
+📊 Now leveling up in Data Science @ RMIT Melbourne — exploring ML, optimization, and everything in between
+
+🚀 Always building something
