@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Former Software Engineer @ Tata Elxsi — built ADAS modules, simulated sensor data, and decoded CAN signals on embedded systems<br><br>📊 Now leveling up in Data Science @ RMIT Melbourne — exploring ML, optimization, and everything in between<br><br>🚀 Always building something
+🛠️ Former Software Engineer @ Tata Elxsi - built ADAS modules, simulated sensor data, and decoded CAN signals on embedded systems<br><br>📊 Now leveling up in Data Science @ RMIT Melbourne - exploring ML, optimization, and everything in between<br><br>🚀 Always building something
 
 
 # 💻 Tech Stack:
